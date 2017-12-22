@@ -1,0 +1,21 @@
+.test{
+	background: #00f;
+	color: #fff;
+	padding:0 13px
+	border-right:2px solid #000;
+}
+.nav-link a{
+	/*border-right:2px solid #000;*/
+	/*border-left:2px solid #000;*/
+	padding:10px 13px;
+	color:#fff;
+	text-decoration: none !important;
+}
+.nav-link a:hover{
+	padding:10px 13px;
+	/*border-right:2px solid #000;*/
+	/*border-left:2px solid #000;*/
+	background: rgba(0,0,255,0.4);
+    color: #fff !important;
+    text-decoration: none !important;
+}
